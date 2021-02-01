@@ -1,0 +1,270 @@
+"EXPECTED:Курсы валют в Молдове. Курс доллара и курс евро, курс рубля и гривны"
+"ACTUAL:Курсы валют в Молдове. Курс доллара и курс евро, курс ..."
+"RESULT: FAIL"
+EXPECTED:Правила
+"ACTUAL:Правила - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Последние новости Молдовы и Приднестровья на Point.md"
+"ACTUAL:Последние новости Молдовы и Приднестровья на Point.md"
+"RESULT: TRUE"
+"EXPECTED:Programul de emisiuni TV în Moldova"
+"ACTUAL:Programul de emisiuni TV în Moldova - Point.md"
+"RESULT: FAIL"
+EXPECTED:Помощь
+"ACTUAL:Помощь - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Toate cursurile valutare din Republica Moldova. Curs euro și dolar, curs rublă și hrivnă"
+"ACTUAL:Toate cursurile valutare din Republica Moldova. Curs euro și ..."
+"RESULT: FAIL"
+"EXPECTED:О нас"
+"ACTUAL:О нас - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Canal 3 Программа передач Canal 3 на сегодня, на неделю."
+"ACTUAL:Телепрограмма Canal 3 Программа передач Canal 3 на ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма National TV Программа передач National TV на сегодня, на неделю."
+"ACTUAL:Телепрограмма National TV Программа передач National ..."
+"RESULT: FAIL"
+"EXPECTED:Programul TV Disney Channel Programul de emisiuni Disney Channel pentru ziua de azi, pentru toată săptămâna"
+"ACTUAL:Programul TV Disney Channel Programul de emisiuni Disney ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Acasa Программа передач Acasa на сегодня, на неделю."
+"ACTUAL:Телепрограмма Acasa Программа передач Acasa на ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Publika TV Программа передач Publika TV на сегодня, на неделю."
+"ACTUAL:Телепрограмма Publika TV Программа передач Publika TV ..."
+"RESULT: FAIL"
+"EXPECTED:Programul TV Prime Programul de emisiuni Prime pentru ziua de azi, pentru toată săptămâna"
+"ACTUAL:Programul TV Prime Programul de emisiuni Prime pentru ziua ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Pro TV Программа передач Pro TV на сегодня, на неделю."
+"ACTUAL:Телепрограмма Pro TV Программа передач Pro TV на ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма TLC Программа передач TLC на сегодня, на неделю."
+"ACTUAL:Телепрограмма TLC Программа передач TLC на сегодня ..."
+"RESULT: FAIL"
+"EXPECTED:Programul TV RTVi Programul de emisiuni RTVi pentru ziua de azi, pentru toată săptămâna"
+"ACTUAL:Programul TV RTVi Programul de emisiuni RTVi pentru ziua ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма НТН Программа передач НТН на сегодня, на неделю."
+"ACTUAL:Телепрограмма НТН Программа передач НТН на сегодня ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма БТВ Программа передач БТВ на сегодня, на неделю."
+"ACTUAL:Телепрограмма БТВ Программа передач БТВ на сегодня ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Молдова 1 Программа передач Молдова 1 на сегодня, на неделю."
+"ACTUAL:Телепрограмма Молдова 1 Программа передач Молдова 1 ..."
+"RESULT: FAIL"
+"EXPECTED:Последние новости Молдовы и Приднестровья на Point.md"
+"ACTUAL:Правительство во главе с Ионом Кику ушло в ... - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма TVC-21 Программа передач TVC-21 на сегодня, на неделю."
+"ACTUAL:Телепрограмма TVC-21 Программа передач TVC-21 на ..."
+"RESULT: FAIL"
+"EXPECTED:Programul TV Canal 3 Programul de emisiuni Canal 3 pentru ziua de azi, pentru toată săptămâna"
+"ACTUAL:Canal 3 - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Домашний Программа передач Домашний на сегодня, на неделю."
+"ACTUAL:Телепрограмма Домашний Программа передач Домашний ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма AXN Sci Fi Программа передач AXN Sci Fi на сегодня, на неделю."
+"ACTUAL:AXN Sci Fi - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Programul TV TVC-21 Programul de emisiuni TVC-21 pentru ziua de azi, pentru toată săptămâna"
+"ACTUAL:Programul TV TVC-21 Programul de emisiuni TVC-21 pentru ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма Время Программа передач Время на сегодня, на неделю."
+"ACTUAL:Телепрограмма Время Программа передач Время на ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма JurnalTV Программа передач JurnalTV на сегодня, на неделю."
+"ACTUAL:Телепрограмма JurnalTV Программа передач JurnalTV на ..."
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма RTR Moldova Программа передач RTR Moldova на сегодня, на неделю."
+"ACTUAL:Телепрограмма RTR Moldova Программа передач RTR ..."
+"RESULT: FAIL"
+"EXPECTED:Погода в Бельцах"
+"ACTUAL:Погода в Бельцах - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Телепрограмма ТНТ Exclusiv TV Программа передач ТНТ Exclusiv TV на сегодня, на неделю."
+"ACTUAL:ТНТ Exclusiv TV - Point.md"
+"RESULT: FAIL"
+"EXPECTED:Курс валют от 16 банков Молдовы. Свежий курс доллара, евро, рубля, гривны, и лея от Banca de economii, Deghest, Banca Socială и др. Онлайн конвертер валют"
+"ACTUAL:Banca Nationala a Moldovei, 17.323, 17.323, 21.010, 21.010, 0.228, 0.228, 4.310, 4.310, 0.616, 0.616, 23.751, 23.751. Banca Comercială Română, 17.220 ..."
+"RESULT: FAIL"
+"EXPECTED:Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны"
+"ACTUAL:Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны."
+"RESULT: FAIL"
+"EXPECTED:Политические и культурные новости в Молдове и Приднестровье. Общественная и научная жизнь страны, курс валют, карта и программа телевидения"
+"ACTUAL:Политика · Санду совершит визит в Париж, где проведет встречу с Макроном. Президент Майя Санду будет находиться с официальным визитом в ..."
+"RESULT: FAIL"
+"EXPECTED:Programul de emisiuni TV. Programul de emisiuni TV în Moldova pe azi, pe maine, pe o săptămână - setarea telecanalelor."
+"ACTUAL:Programul de emisiuni TV. Programul de emisiuni TV în Moldova pe azi, pe maine, pe o săptămână - setarea telecanalelor."
+"RESULT: TRUE"
+"EXPECTED:Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны"
+"ACTUAL:Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны."
+"RESULT: FAIL"
+"EXPECTED:Curs valutar bănci din Republica Moldova - BNM, Deghest, Banca Socială etc. Curs valutar actualizat la zi pentru principalele valute (curs euro, curs dolar, curs rublă, curs lei)"
+"ACTUAL:Curs valutar bănci din Republica Moldova - BNM, Deghest, Banca Socială etc. Curs valutar actualizat la zi pentru principalele valute (curs euro, curs dolar, curs ..."
+"RESULT: FAIL"
+"EXPECTED:Последние новости Молдовы, политические и общественные события, спортивные обозрения и прочие события страны"
+"ACTUAL:О проекте. Point.md – молдавский интернет-портал, открылся в 2006 году компанией Simpals и является крупнейшим ..."
+"RESULT: FAIL"
+"EXPECTED:Телеканал Canal 3: программа телепередач канала Canal 3 на сегодня и на завтра, программа ТВ передач канала Canal 3 на неделю."
+"ACTUAL:Телеканал Canal 3: программа телепередач канала Canal 3 на сегодня и на завтра, программа ТВ передач канала Canal 3 на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал National TV: программа телепередач канала National TV на сегодня и на завтра, программа ТВ передач канала National TV на неделю."
+"ACTUAL:Телеканал National TV: программа телепередач канала National TV на сегодня и на завтра, программа ТВ передач канала National TV на неделю."
+"RESULT: TRUE"
+"EXPECTED:Canalul TV Disney Channel: programul de emisiuni al canalului Disney Channel pentru o săptămână, programul TV de emisiuni al canalului Disney Channel pentru astăzi și mâine"
+"ACTUAL:Canalul TV Disney Channel: programul de emisiuni al canalului Disney Channel pentru o săptămână, programul TV de emisiuni al canalului Disney Channel ..."
+"RESULT: FAIL"
+"EXPECTED:Телеканал Acasa: программа телепередач канала Acasa на сегодня и на завтра, программа ТВ передач канала Acasa на неделю."
+"ACTUAL:Телеканал Acasa: программа телепередач канала Acasa на сегодня и на завтра, программа ТВ передач канала Acasa на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал Publika TV: программа телепередач канала Publika TV на сегодня и на завтра, программа ТВ передач канала Publika TV на неделю."
+"ACTUAL:Телеканал Publika TV: программа телепередач канала Publika TV на сегодня и на завтра, программа ТВ передач канала Publika TV на неделю."
+"RESULT: TRUE"
+"EXPECTED:Canalul TV Prime: programul de emisiuni al canalului Prime pentru o săptămână, programul TV de emisiuni al canalului Prime pentru astăzi și mâine"
+"ACTUAL:Prime. 05:30""Respect Moldova""; 07:00""Prima Ora""; 09:00""Doctorii"" (rom.) 10:00""Vorbeste Moldova"" (rom.) 12:00""Primele Stiri"" (rom.) 12:30Т/с ""Джамайка""; 14: ..."
+"RESULT: FAIL"
+"EXPECTED:Телеканал Pro TV: программа телепередач канала Pro TV на сегодня и на завтра, программа ТВ передач канала Pro TV на неделю."
+"ACTUAL:Телеканал Pro TV: программа телепередач канала Pro TV на сегодня и на завтра, программа ТВ передач канала Pro TV на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал TLC: программа телепередач канала TLC на сегодня и на завтра, программа ТВ передач канала TLC на неделю."
+"ACTUAL:TLC. 05:00Оденься к свадьбе (12+). программа тв TLC (Россия). TLC — это развлекательный телеканал, адресованный женской аудитории."
+"RESULT: FAIL"
+"EXPECTED:Canalul TV RTVi: programul de emisiuni al canalului RTVi pentru o săptămână, programul TV de emisiuni al canalului RTVi pentru astăzi și mâine"
+"ACTUAL:RTVi. 05:00Новые итоги; 06:00Час speak; 07:00Сквозной эфир. 30 минут о главном; 07:30Дежурный по Нью-Йорку; 08:00Мультфильм; 10:00Русские ..."
+"RESULT: FAIL"
+"EXPECTED:Телеканал НТН: программа телепередач канала НТН на сегодня и на завтра, программа ТВ передач канала НТН на неделю."
+"ACTUAL:Телеканал НТН: программа телепередач канала НТН на сегодня и на завтра, программа ТВ передач канала НТН на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал БТВ: программа телепередач канала БТВ на сегодня и на завтра, программа ТВ передач канала БТВ на неделю."
+"ACTUAL:Телеканал БТВ: программа телепередач канала БТВ на сегодня и на завтра, программа ТВ передач канала БТВ на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал Молдова 1: программа телепередач канала Молдова 1 на сегодня и на завтра, программа ТВ передач канала Молдова 1 на неделю."
+"ACTUAL:Телеканал Молдова 1: программа телепередач канала Молдова 1 на сегодня и на завтра, программа ТВ передач канала Молдова 1 на неделю."
+"RESULT: TRUE"
+"EXPECTED:Политические и культурные новости в Молдове и Приднестровье. Общественная и научная жизнь страны, курс валют, карта и программа телевидения"
+"ACTUAL:несколько секунд назад Общество 0. 13:18. На границе у молдаванина изъяли купленное за €700 удостоверение личности. У молдаванина при ..."
+"RESULT: FAIL"
+"EXPECTED:Телеканал TVC-21: программа телепередач канала TVC-21 на сегодня и на завтра, программа ТВ передач канала TVC-21 на неделю."
+"ACTUAL:Телеканал TVC-21: программа телепередач канала TVC-21 на сегодня и на завтра, программа ТВ передач канала TVC-21 на неделю."
+"RESULT: TRUE"
+"EXPECTED:Canalul TV Canal 3: programul de emisiuni al canalului Canal 3 pentru o săptămână, programul TV de emisiuni al canalului Canal 3 pentru astăzi și mâine"
+"ACTUAL:Canalul TV Canal 3: programul de emisiuni al canalului Canal 3 pentru o săptămână, programul TV de emisiuni al canalului Canal 3 pentru astăzi și mâine."
+"RESULT: FAIL"
+"EXPECTED:Телеканал Домашний: программа телепередач канала Домашний на сегодня и на завтра, программа ТВ передач канала Домашний на неделю."
+"ACTUAL:Телеканал Домашний: программа телепередач канала Домашний на сегодня и на завтра, программа ТВ передач канала Домашний на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал AXN Sci Fi: программа телепередач канала AXN Sci Fi на сегодня и на завтра, программа ТВ передач канала AXN Sci Fi на неделю."
+"ACTUAL:Телеканал AXN Sci Fi: программа телепередач канала AXN Sci Fi на сегодня и на завтра, программа ТВ передач канала AXN Sci Fi на неделю."
+"RESULT: TRUE"
+"EXPECTED:Canalul TV TVC-21: programul de emisiuni al canalului TVC-21 pentru o săptămână, programul TV de emisiuni al canalului TVC-21 pentru astăzi și mâine"
+"ACTUAL:TVC-21. 05:00Наша американская история; 05:30Ромб; 06:00Stiri 21; 06:20Fantezia gustului; 06:50Market Imobile; 07:00Stiri 21; 07:30Statia de creatie ..."
+"RESULT: FAIL"
+"EXPECTED:Телеканал Время: программа телепередач канала Время на сегодня и на завтра, программа ТВ передач канала Время на неделю."
+"ACTUAL:Телеканал Время: программа телепередач канала Время на сегодня и на завтра, программа ТВ передач канала Время на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал JurnalTV: программа телепередач канала JurnalTV на сегодня и на завтра, программа ТВ передач канала JurnalTV на неделю."
+"ACTUAL:Телеканал JurnalTV: программа телепередач канала JurnalTV на сегодня и на завтра, программа ТВ передач канала JurnalTV на неделю."
+"RESULT: TRUE"
+"EXPECTED:Телеканал RTR Moldova: программа телепередач канала RTR Moldova на сегодня и на завтра, программа ТВ передач канала RTR Moldova на неделю."
+"ACTUAL:RTR Moldova. 05:45""Парад юмора""; 06:30""Азбука вкуса""; 07:15Мелодрама ""Искушение наследством"". 3-4 с. 2019 г. 09:00""Доктор Мясников"" ..."
+"RESULT: FAIL"
+"EXPECTED:Прогноз погоды в Бельцах на неделю. Погода в Молдове, точный прогноз погоды в столице и других городах страны"
+"ACTUAL:Прогноз погоды в Бельцах на неделю. Погода в Молдове, точный прогноз погоды в столице и других городах страны."
+"RESULT: FAIL"
+"EXPECTED:Телеканал ТНТ Exclusiv TV: программа телепередач канала ТНТ Exclusiv TV на сегодня и на завтра, программа ТВ передач канала ТНТ Exclusiv TV на неделю."
+"ACTUAL:ТНТ Exclusiv TV. 05:10Однажды в России; 07:00ТНТ. Gold; 08:00Мама life; 08:30Экстрасенсы ведут расследование; 10:00Бородина против Бузовой ..."
+"RESULT: FAIL"
+EXPECTED:https://point.md/ru/curs/
+ACTUAL:https://point.md/ru/curs/
+"RESULT: TRUE"
+EXPECTED:https://point.md/info/rules
+ACTUAL:https://point.md/info/rules
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/novosti/
+ACTUAL:https://point.md/ru/novosti/
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/tv/
+ACTUAL:https://point.md/ro/tv/
+"RESULT: TRUE"
+EXPECTED:https://point.md/info/help
+ACTUAL:https://point.md/info/help
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/curs/
+ACTUAL:https://point.md/ro/curs/
+"RESULT: TRUE"
+EXPECTED:https://point.md/info/about
+ACTUAL:https://point.md/info/about
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/canal3
+ACTUAL:https://point.md/ru/tv/canal3
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/national
+ACTUAL:https://point.md/ru/tv/national
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/tv/disney
+ACTUAL:https://point.md/ro/tv/disney
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/acasa
+ACTUAL:https://point.md/ru/tv/acasa
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/publika
+ACTUAL:https://point.md/ru/tv/publika
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/tv/prime
+ACTUAL:https://point.md/ro/tv/prime
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/protv
+ACTUAL:https://point.md/ru/tv/protv
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/tlc
+ACTUAL:https://point.md/ru/tv/tlc
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/tv/rtvi
+ACTUAL:https://point.md/ro/tv/rtvi
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/hth
+ACTUAL:https://point.md/ru/tv/hth
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/102
+ACTUAL:https://point.md/ru/tv/102
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/moldova1
+ACTUAL:https://point.md/ru/tv/moldova1
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/novosti/320/
+ACTUAL:https://point.md/ru/novosti/320/
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/tvc21
+ACTUAL:https://point.md/ru/tv/tvc21
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/tv/canal3
+ACTUAL:https://point.md/ro/tv/canal3
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/domashniy
+ACTUAL:https://point.md/ru/tv/domashniy
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/axnscifi
+ACTUAL:https://point.md/ru/tv/axnscifi
+"RESULT: TRUE"
+EXPECTED:https://point.md/ro/tv/tvc21
+ACTUAL:https://point.md/ro/tv/tvc21
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/vremea
+ACTUAL:https://point.md/ru/tv/vremea
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/jurnaltv
+ACTUAL:https://point.md/ru/tv/jurnaltv
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/rtr
+ACTUAL:https://point.md/ru/tv/rtr
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/meteo/balti/
+ACTUAL:https://point.md/ru/meteo/balti/
+"RESULT: TRUE"
+EXPECTED:https://point.md/ru/tv/tnt-exclusiv
+ACTUAL:https://point.md/ru/tv/tnt-exclusiv
+"RESULT: TRUE"
